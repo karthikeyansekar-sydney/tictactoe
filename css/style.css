@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+
+html {
+  font-family: 'Libre Baskerville', ;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.container {
+  max-width: 400px;
+  margin: 2em auto;
+  text-align: center;
+  line-height: 1.5;
+}
+
+h1 {
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  color: pink;
+  font-weight: 700;
+}
+
+span.pone {
+  color: orange;
+  font-weight: 1100;
+  font-size: 20px;
+}
+
+span.ptwo {
+  color: green;
+  font-weight: 1100;
+  font-size: 20px;
+}
+
+span.pink {
+  color: pink;
+}
+
+.button {
+  width: 120px;
+  height: 30px;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 50px auto;
+  align: center;
+  box-shadow: 2px 2px #82500ec4;
+  cursor: pointer;
+  text-align: center;
+
+  background-color: red;
+  font-size: 17px;
+  color: #fff;
+}
+
+.tic-tac-toe {
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  cursor: pointer;
+  box-shadow: 5px 5px #82500ec4;
+  opacity: 0.5;
+  position: relative;
+  vertical-align: top;
+
+  padding: 15px;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+
+  color: #33FFF3;
+  font-size: 90px;
+  text-align: center;
+}
+
+.free {
+  background-color: #191512ed;
+}
+
+
+.U-turn {
+  background-color: green;
+  opacity: 1;
+}
+
+.I-turn {
+  background-color: orange;
+  opacity: 1;
+}
+
+body {
+  background-image: url('https://wallpaperaccess.com/full/346439.jpg');
+}
