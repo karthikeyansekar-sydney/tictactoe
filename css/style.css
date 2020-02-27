@@ -44,7 +44,7 @@ span.pink {
   height: 30px;
   border-radius: 3px;
   padding: 5px;
-  margin: 50px auto;
+  margin: 58px 663px;
   align: center;
   box-shadow: 2px 2px #82500ec4;
   cursor: pointer;
@@ -58,7 +58,7 @@ span.pink {
 .tic-tac-toe {
   width: 500px;
   height: auto;
-  margin: 0 auto;
+  margin: 0 497px;
 
 }
 
@@ -79,6 +79,13 @@ span.pink {
   color: #33FFF3;
   font-size: 90px;
   text-align: center;
+}
+
+div.free:hover
+{
+  box-shadow: 7px 7px #86FF33;
+  background-color: #33FFF9;
+  opacity: 0.5;
 }
 
 .free {
