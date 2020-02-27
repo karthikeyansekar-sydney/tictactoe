@@ -14,16 +14,16 @@ Tic-Tac-Toe
 * [Contact](#contact)
 
 ## LiveDemoLink
-![LiveDemoLink](https://karthikeyansekar-sydney.github.io/tictactoe/)
+[LiveDemoLink](https://karthikeyansekar-sydney.github.io/tictactoe/)
 
 ## Description
 This is a simple game of tic tac toe that I have created with my javascript/jquery skills. Here I have created a tic-tac-toe game where two players can play against each other with a more appealing UserInterface and catchy CSS effects.
 
 ## Screenshots
-![Game screenshot](./images/ScreenShot_game.png)
+![Game screenshot](images/ScreenShot_game.png)
 
 ## Technologies
-![jQuery JavaScript Library v3.4.1 ](https://jquery.com/)
+[jQuery JavaScript Library v3.4.1 ](https://jquery.com/)
 
 ## Setup
 <h5>To Play the game</h5>
