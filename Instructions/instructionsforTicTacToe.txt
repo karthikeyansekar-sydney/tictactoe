@@ -1,0 +1,26 @@
+You probably already know how to play Tic-Tac-Toe. It's a really simple game right? That's What most people think. But if you really wrap your brain around it,
+you will discoed that Tic-Tac-Toe isn't quite as simple as you think!
+
+RULES FOR TIC-TAC-TOE:
+
+1.The game is played on a grid that's 3 squares by 3 squares.
+
+2.You are 'I' and your friend is 'U'. Players take turns putting their marks in empty squares.
+
+3.The first player to get 3 of her marks in a row (Up, down, across, or diagonally) is the winner.
+
+4. When all 9 Squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
+
+HOW CAN I WIN AT TIC-TAC-TOE?
+
+To beat your friend (or at least tie), you need to make use of little bit of strategy. Strategy means figuring out What you need to do to win.
+
+Part of your strategy is trying to figure out how to get three 'I' in a row. The other part is trying to figure out how to stop the computer from getting three 'U's in a row.
+
+After you put on I in a square, you start looking ahead. Whereas the best place for your next move You look at the empty squares and decide which ones are good choices ,
+ Which ones might let you make three 'I's in a row.
+
+You also have to watch where the other person puts his 'U's. That could change what you undo next. If the other player gets two Us in a row, you have to put next I in the last empty box in that row,
+ or the other player will win. You are forced to play in a particular box or lose the game.
+
+If you always pay attention and look ahead, you will never lose a game of Tic-Tac-Toe. You may not win, but at least you will tie. 
